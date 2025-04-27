@@ -90,6 +90,8 @@ plt.show()
 
 ## Output Waveform:
 ![image](https://github.com/user-attachments/assets/0f7a6b34-2f7c-4b8e-a560-e0ce2f6ef0ac)
+![OVIYA](https://github.com/user-attachments/assets/21205242-c48d-47c9-9595-31a58dd5af70)
+
 
 
 ## Results:
